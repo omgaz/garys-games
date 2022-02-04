@@ -1,0 +1,6 @@
+.DS_Store
+*.aes
+*.decrypted
+*.pub
+dist
+node_modules
