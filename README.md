@@ -27,7 +27,8 @@ $ npm test talking-clock # run tests for the talking clock game
 
 ### 🐤 Beginner
 
-🕰 [Talking Clock](games/talking-clock) - Convert a 24h time HH:MM to the spoken word
+- 🕰 [Talking Clock](games/talking-clock/README.md) - Convert a 24h time HH:MM to the spoken word
+- ➰ [Literally](games/literally/README.md) - Output a given number as it’s literal representation
 
 ## ⚖️ License
 
