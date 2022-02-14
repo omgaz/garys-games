@@ -8,7 +8,7 @@ describe('literally', () => {
   });
 
   test('should work recursively', () => {
-    expect(literally(literally(literally(1)))).toBe(31);
+    expect(literally(literally(literally(1)))).toBe(1211);
   });
 
   test('should maintain sign', () => {
