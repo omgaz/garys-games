@@ -1,5 +1,5 @@
 // Optional complexity limitation; feel free to modify this to make the puzzle easier/harder
-/* eslint complexity: ["error", 10] */
+/* eslint complexity: ["error", 6] */
 
 /**
  *
