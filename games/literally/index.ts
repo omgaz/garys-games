@@ -1,3 +1,6 @@
+// Optional complexity limitation; feel free to modify this to make the puzzle easier/harder
+/* eslint complexity: ["error", 10] */
+
 /**
  *
  * @param num - Input number.
