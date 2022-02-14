@@ -4,7 +4,7 @@
   "description": "A new project",
   "scripts": {
     "lint": "eslint . --ext .ts --fix",
-    "test": "jest",
+    "test": "npm run lint && jest",
     "build": "tsc -p tsconfig.build.json"
   },
   "keywords": [],
@@ -13,17 +13,16 @@
   "private": "false",
   "repository": "https://github.com/omgaz/garys-games",
   "engines": {
-    "node": ">=16"
+    "node": "14 || 16"
   },
-  "dependencies": {
-    "@types/jest": "^27.4.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.10.2",
-    "@typescript-eslint/parser": "^5.10.2",
-    "jest": "^27.4.7",
+    "@types/jest": "^27.4.0",
+    "@typescript-eslint/eslint-plugin": "^5.11.0",
+    "@typescript-eslint/parser": "^5.11.0",
+    "jest": "^27.5.1",
     "ts-jest": "^27.1.3",
-    "ts-node": "^10.4.0",
+    "ts-node": "^10.5.0",
     "typescript": "^4.5.5"
   }
 }
