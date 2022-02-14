@@ -6,7 +6,7 @@
  * @param num - Input number.
  * @returns Literal representation of input number.
  */
-const literally = (num: number): number => {
+const literally = (num: number | void): number | void => {
   /**
    * Your code here.
    */
