@@ -2,7 +2,7 @@
 title: Literally
 description: A new number, literally
 slug: literally
-difficulty: beginner
+difficulty: intermediate
 author: @omgaz
 ---
 
