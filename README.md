@@ -11,6 +11,7 @@
 - [🏗 Getting Started](#-getting-started)
 - [🏂 Games](#-games)
   - [🐤 Beginner](#-beginner)
+  - [🦊 Intermediate](#-intermediate)
 - [⚖️ License](#️-license)
 
 ## 🏗 Getting Started
@@ -28,6 +29,9 @@ $ npm test talking-clock # run tests for the talking clock game
 ### 🐤 Beginner
 
 - 🕰 [Talking Clock](games/talking-clock/README.md) - Convert a 24h time HH:MM to the spoken word
+
+### 🦊 Intermediate
+
 - ➰ [Literally](games/literally/README.md) - Output a given number as it’s literal representation
 
 ## ⚖️ License

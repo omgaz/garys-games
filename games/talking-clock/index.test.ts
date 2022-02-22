@@ -17,3 +17,4 @@ describe('talking clock', () => {
     expect(talkingClock('12:00')).toBe('It’s twelve pm');
   });
 });
+
