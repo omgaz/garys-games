@@ -33,6 +33,7 @@ $ npm test talking-clock # run tests for the talking clock game
 ### 🦊 Intermediate
 
 - ➰ [Literally](games/literally/README.md) - Output a given number as it’s literal representation
+- 🏀 [Debounce](games/debounce/README.md) - Debounce a function call
 
 ## ⚖️ License
 
