@@ -6,6 +6,6 @@
   "parser": "@typescript-eslint/parser",
   "plugins": ["@typescript-eslint"],
   "rules": {
-    "complexity": "error"
+    "complexity": ["error", 10]
   }
 }
